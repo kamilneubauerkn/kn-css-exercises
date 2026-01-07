@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.yellow,
+.black {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}/* Add CSS Styling */
+
+.yellow {
+   background-color: rgb(255, 255, 0); 
+}
+
+.black {
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
